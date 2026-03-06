@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="260"
+   height="260"
+   viewBox="0 0 260 260"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="app-logo.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.1192308"
+     inkscape:cx="129.8397"
+     inkscape:cy="130.32059"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M119.885 33.1015C125.996 39.2117 135.902 39.2117 142.012 33.1015L169.83 5.28417C172.721 2.39231 176.631 0.747702 180.72 0.702495L244.181 0.000977151C252.957 -0.0960353 260.096 7.0431 259.999 15.819L259.297 79.2799C259.252 83.3693 257.608 87.2785 254.716 90.1704L226.898 117.988C220.788 124.098 220.788 134.004 226.898 140.115L253.624 166.84C256.6 169.816 258.252 173.867 258.205 178.076L257.498 242.026C257.404 250.532 250.532 257.404 242.026 257.498L178.076 258.205C173.867 258.252 169.816 256.6 166.84 253.624L140.115 226.898C134.004 220.788 124.098 220.788 117.988 226.898L90.1703 254.716C87.2785 257.608 83.3693 259.252 79.2799 259.297L15.819 259.999C7.04309 260.096 -0.0960353 252.957 0.000977152 244.181L0.702495 180.72C0.747702 176.631 2.39231 172.721 5.28417 169.83L33.1015 142.012C39.2117 135.902 39.2117 125.996 33.1015 119.885L6.3763 93.1602C3.39969 90.1836 1.74809 86.1331 1.79462 81.9238L2.50155 17.9737C2.59558 9.46793 9.46792 2.59558 17.9737 2.50155L81.9238 1.79462C86.1331 1.74809 90.1836 3.39969 93.1602 6.3763L119.885 33.1015ZM81.6384 66.1662C73.1326 66.2602 66.2602 73.1326 66.1662 81.6384L65.0889 179.093C64.9919 187.869 72.131 195.008 80.907 194.911L178.362 193.834C186.867 193.74 193.74 186.867 193.834 178.362L194.911 80.907C195.008 72.131 187.869 64.9919 179.093 65.0889L81.6384 66.1662Z"
+     fill="white"
+     id="path1"
+     style="fill:#9614d0;fill-opacity:1" />
+</svg>
